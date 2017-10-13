@@ -1,0 +1,24 @@
+@import '/node_modules/@angular/material/prebuilt-themes/indigo-pink.css';
+
+/* Reset */
+
+html,
+body,
+div {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.desktop lang-switcher {
+    display: none;
+}
+
+/* Box-sizing border-box */
+
+* {
+    box-sizing: border-box;
+}
+.mat-sidenav-backdrop.mat-sidenav-shown {
+    background-color: transparent!important;
+}

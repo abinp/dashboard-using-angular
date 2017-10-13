@@ -1,0 +1,16 @@
+<md-toolbar>
+        <md-icon (click)="sidenav.open()">menu</md-icon>
+        <h4>Home</h4>
+</md-toolbar>
+<md-sidenav-container class="example-container">
+    <md-sidenav #sidenav class="example-sidenav" mode="push" 
+            fxLayout="column" fxLayoutAlign="start center">
+      <md-icon [routerLink]="['/']">home</md-icon>
+      <md-icon [routerLink]="['/dashboard1']">insert_chart</md-icon>
+      <md-icon>search</md-icon>
+      <md-icon>chat</md-icon>
+      <md-icon>help</md-icon>
+      <md-icon>settings</md-icon>
+    </md-sidenav>
+    <router-outlet></router-outlet>
+</md-sidenav-container>

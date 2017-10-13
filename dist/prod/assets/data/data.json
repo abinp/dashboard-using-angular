@@ -1,0 +1,57 @@
+[{
+        "date": "2016-10",
+        "PRODUCTION": 241353,
+        "ADJUSTED_PRODUCTION": 133330.90999999997,
+        "COLLECTION": 150611.61000000002,
+        "NEW_PATIENT_COUNT": "54"
+    },
+    {
+        "date": "2016-11",
+        "PRODUCTION": 255302,
+        "ADJUSTED_PRODUCTION": 152539.34,
+        "COLLECTION": 137242.21,
+        "NEW_PATIENT_COUNT": "81"
+    },
+    {
+        "date": "2016-12",
+        "PRODUCTION": 276198,
+        "ADJUSTED_PRODUCTION": 141438.49000000002,
+        "COLLECTION": 122481.38999999998,
+        "NEW_PATIENT_COUNT": "70"
+    },
+    {
+        "date": "2017-01",
+        "PRODUCTION": 255302,
+        "ADJUSTED_PRODUCTION": 152539.34,
+        "COLLECTION": 137242.21,
+        "NEW_PATIENT_COUNT": "40"
+    },
+    {
+        "date": "2017-02",
+        "PRODUCTION": 255302,
+        "ADJUSTED_PRODUCTION": 152539.34,
+        "COLLECTION": 137242.21,
+        "NEW_PATIENT_COUNT": "35"
+    },
+    {
+        "date": "2017-03",
+        "PRODUCTION": 255302,
+        "ADJUSTED_PRODUCTION": 152539.34,
+        "COLLECTION": 137242.21,
+        "NEW_PATIENT_COUNT": "25"
+    },
+    {
+        "date": "2017-04",
+        "PRODUCTION": 255302,
+        "ADJUSTED_PRODUCTION": 152539.34,
+        "COLLECTION": 137242.21,
+        "NEW_PATIENT_COUNT": "90"
+    },
+    {
+        "date": "2017-05",
+        "PRODUCTION": 255302,
+        "ADJUSTED_PRODUCTION": 152539.34,
+        "COLLECTION": 137242.21,
+        "NEW_PATIENT_COUNT": "20"
+    }
+]

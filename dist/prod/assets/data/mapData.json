@@ -1,0 +1,113 @@
+[{
+  "Patient_ID": "44907",
+  "PATIENT_NAME": "Fuellenbach          , Rock            ",
+  "Latitude": 40.4859372,
+  "Longitude": -111.8768695,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 40
+}, {
+  "Patient_ID": "38015",
+  "PATIENT_NAME": "Mqomboti             , Malaika         ",
+  "Latitude": 40.67288020000001,
+  "Longitude": -111.9098535,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 278
+}, {
+  "Patient_ID": "46129",
+  "PATIENT_NAME": "Latu                 , Liana           ",
+  "Latitude": 40.8568578,
+  "Longitude": -111.9360236,
+  "Patient_Classification": "NEW PATIENT",
+  "PRODUCTION": 1601
+}, {
+  "Patient_ID": "40591",
+  "PATIENT_NAME": "Blanck               , Lilee           ",
+  "Latitude": 40.659785,
+  "Longitude": -112.000142,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 440
+}, {
+  "Patient_ID": "34683",
+  "PATIENT_NAME": "Person               , Tavian          ",
+  "Latitude": 40.639959,
+  "Longitude": -111.963454,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 190
+}, {
+  "Patient_ID": "40370",
+  "PATIENT_NAME": "Nguyen               , Cayden          ",
+  "Latitude": 40.6742681,
+  "Longitude": -112.0415546,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 62
+}, {
+  "Patient_ID": "26953",
+  "PATIENT_NAME": "Sonntag              , Stewart         ",
+  "Latitude": 40.5789116,
+  "Longitude": -111.8041783,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 410
+}, {
+  "Patient_ID": "26542",
+  "PATIENT_NAME": "Lorenc               , Brynlee         ",
+  "Latitude": 40.5317777,
+  "Longitude": -112.0236489,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 201
+}, {
+  "Patient_ID": "38014",
+  "PATIENT_NAME": "Mqomboti             , Zukiswa         ",
+  "Latitude": 40.67288020000001,
+  "Longitude": -111.9098535,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 190
+}, {
+  "Patient_ID": "43382",
+  "PATIENT_NAME": "Jones                , Kinlee          ",
+  "Latitude": 40.645309,
+  "Longitude": -111.916561,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 278
+}, {
+  "Patient_ID": "23277",
+  "PATIENT_NAME": "Lorenc               , Annika          ",
+  "Latitude": 40.5317777,
+  "Longitude": -112.0236489,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 393
+}, {
+  "Patient_ID": "38774",
+  "PATIENT_NAME": "Jones                , Bryatt          ",
+  "Latitude": 40.645309,
+  "Longitude": -111.916561,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 580
+}, {
+  "Patient_ID": "38703",
+  "PATIENT_NAME": "Larsen               , Isaac           ",
+  "Latitude": 40.6908417,
+  "Longitude": -111.8204539,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 240
+}, {
+  "Patient_ID": "29589",
+  "PATIENT_NAME": "Coolack              , Brack           ",
+  "Latitude": 40.71047009999999,
+  "Longitude": -112.0719268,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 190
+}, {
+  "Patient_ID": "45092",
+  "PATIENT_NAME": "Ericksen             , Raiden(Riden)   ",
+  "Latitude": 40.6884009,
+  "Longitude": -112.0115178,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 201
+}, {
+  "Patient_ID": "33584",
+  "PATIENT_NAME": "Bright               , Kabrea          ",
+  "Latitude": 40.5544077,
+  "Longitude": -111.8843557,
+  "Patient_Classification": "REPEAT PATIENT",
+  "PRODUCTION": 190
+}]

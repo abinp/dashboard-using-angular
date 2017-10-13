@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "search.exclude": {
+    "**/coverage_js": true,
+    "**/coverage": true,
+    "**/dist": true
+},
+"vsicons.presets.angular": true,
+"angulardoc.repoId": "55dad416-7a39-4879-9618-0ed26dbe947f",
+"angulardoc.lastSync": 0
+}

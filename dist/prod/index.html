@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <base href="/">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+        Sherlock Intelligence
+    </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/assets/favicon/sherlock-favicon_Blue_F9.png" type="image/x-icon">
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.37.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.37.0/mapbox-gl.css' rel='stylesheet' />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="node_modules/devextreme/dist/css/dx.common.css" />
+    <link rel="stylesheet" type="text/css" href="node_modules/devextreme/dist/css/dx.light.css" />
+    <link rel="stylesheet" type="text/css" href="node_modules/leaflet/dist/leaflet.css">
+
+     <!--<script src="node_modules/leaflet/dist/leaflet.js"></script>-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js"></script>
+    <script src="https://fast.wistia.com/embed/medias/9vg47kh14x.jsonp" async></script>
+    <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/4.1.1/shuffle.js"></script>
+    <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+    <script type="text/javascript">
+        Stripe.setPublishableKey('pk_test_j21CrCqc5oGq0bPaHlfFnuah');
+    </script>
+    <script src="/assets/jquery-2.1.4.min.js"></script>
+    <!-- inject:css -->
+    <link rel="stylesheet" href="/css/main.css?1507638229304">
+    <!-- endinject -->
+</head>
+
+<body>
+    <base href="/">
+    <script>
+        (function() {
+            window['_app_base'] = '/' + window.location.pathname.split('/')[1];
+        })();
+    </script>
+
+    <sd-app>
+        <div class="sherlock-spinner">
+            <img style="height: 100px; width: 100px;" src="image/LoadingIconLoop.gif" />
+            <p id="quote"></p>
+        </div>
+    </sd-app>
+
+    <script>
+        // Fixes undefined module function in SystemJS bundle
+        function module() {}
+    </script>
+
+    <!-- shims:js -->
+    <!-- endinject -->
+
+    
+
+            <!-- libs:js -->
+            <!-- endinject -->
+
+            <!-- inject:js -->
+            <script src="/js/shims.js?1507638229302"></script>
+            <script src="/js/app.js?1507638229303"></script>
+            <!-- endinject -->
+
+            
+
+</body>
+
+</html>

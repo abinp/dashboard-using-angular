@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Chrome against localhost, with sourcemaps",
+      "type": "chrome",
+      // "preLaunchTask": "npm start",
+      "request": "launch",
+      "url": "http://localhost:5555",
+      "sourceMaps": true,
+      "webRoot": "${workspaceRoot}/src/client",
+      "sourceMapPathOverrides": {
+        "app/*": "${webRoot}/app/*"
+      }
+    },
+   {
+    "name": "Launch",
+    "type": "chrome",
+    "request": "launch",
+    "url": "http://localhost:5555/",
+    "port": 9223,
+    "sourceMaps": false,
+    "trace": true,
+    "webRoot": "${workspaceRoot}/src/client"
+    // "userDataDir": "${workspaceRoot}/out/chrome"
+}
+
+  ]
+}
