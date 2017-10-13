@@ -8,4 +8,4 @@ This dashboard now includes 3 Devextreme widgets:
 If anyone's interested to play with the code, just do:
   a) clone the project
   b) install npm packages inside the base folder (npm install)
-  c) run the project (have fun)
+  c) run the project and have fun (npm start)
